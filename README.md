@@ -7,3 +7,4 @@ initial setup integration between ide and git
 - still not working #3
 - - still not working #4 and 5
 - 9:54 update
+- 10:17 update
