@@ -12,3 +12,4 @@ initial setup integration between ide and git
 - 1026
 - 1038
 - 1047
+- 1053
